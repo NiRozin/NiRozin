@@ -1,16 +1,15 @@
-### Hi there 👋
+### Nicole Amanda Rozin Hervis (Cientista / Python lover)
 
-<!--
-**NiRozin/nirozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivada pelo desafio, apaixonada pelo mundo da programação e o poder de transformação dos dados, sempre buscando evolução em **Programação Python** e **Machine Learning**, além de **entusiasta em MLOps**.
 
-Here are some ideas to get you started:
+- **Profissão:** Cientista de Dados, Matemática e professora;
+- **Formação:** Licenciada e mestra em Métodos Numéricos, como foco em programação Matemática;
+- **Aspiração**: Ser especialista em MLOps;
+- **Linguagem**: Python
+- **Vício:** Café e chocolate;
+- **Hobbies:** DIY e fazer sobremesas;
+- **Programas favoritos:** Almoço em família, jogar board games (WAR, Catan, etc) com os amigos, maratonar séries com o marido e mimar muito a sobrinha.
+- **Curiosidades**: Faço planilha para tudo, uso kanban para organização pessoal e sempre programo o conteúdo das minha provas em Python para gerar o gabarito e alternativas possíveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
