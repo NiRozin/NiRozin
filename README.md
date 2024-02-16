@@ -17,9 +17,9 @@ Motivada pelo desafio, apaixonada pelo mundo da programação e o poder de trans
 
 ☕ **Vício:** Café e chocolate;
 
-👩🏻‍🍳 **Hobbies:** DIY e fazer sobremesas;
+👩🏻‍🍳 **Hobbies:** DIY, assistir o neném dormir e fazer sobremesas;
  
-🧩 **Programas favoritos:** Almoço em família, jogar board games (WAR, Catan, etc) com os amigos, maratonar séries com o marido e mimar muito os sobrinhos.
+🧩 **Programas favoritos:** Almoço em família, jogar board games (WAR, Catan, etc) com os amigos, maratonar séries com o marido e mimar muito o filho e os sobrinhos.
 
 🔎 **Curiosidades**: Faço planilha para tudo, uso kanban para organização pessoal e, como professora, sempre programo o conteúdo das minha provas em Python para gerar o gabarito e alternativas possíveis.
 </p>
